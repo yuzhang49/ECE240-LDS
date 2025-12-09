@@ -35,7 +35,7 @@ Students learn to solve, simulate, and interpret the evolution of LTI systems.
 ## Frequency-Domain and Transfer Function Methods
 
 - Laplace transforms of vector/matrix signals  
-- Resolvent \((sI - A)^{-1}\)\ and its poles  
+- Resolvent <code>(sI - A)<sup>-1</sup></code> and its poles  
 - Transfer functions, impulse responses, input–output behavior  
 - Connections between eigenvalues, system stability, and ROC  
 
